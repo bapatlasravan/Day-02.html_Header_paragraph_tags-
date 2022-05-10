@@ -1,0 +1,18 @@
+<html>
+<title>Heading&paragraph tags<title>
+<body>
+<h1> Heading tags:</h1>
+<h2>
+Any document starts with a heading. 
+   <p>You can use different sizes for your headings.
+   </p>
+ HTML also has six levels of headings, which use the elements 
+h1, h2, h3, h4,h5, and h6.
+</h2> 
+<h1> Paragraph tags: tags:</h1>
+The <p> tag offers a way to structure your text into different paragraphs.
+ <p>Each paragraph of text should go in between an opening <p> and a closing </p> 
+<h2></p>
+
+</body>
+</html>
